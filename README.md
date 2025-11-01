@@ -127,7 +127,7 @@ joblib.dump(model, 'best_model_.pkl')
 ```
  CreditCard-Fraud-Detection
 ├── fraud_detection.py
-├── creditcard.csv
+├── creditcard.csv (big size -- You can Download from Kaggle)
 ├── scaler.pkl
 ├── best_model_.pkl
 ├── README.md
@@ -167,6 +167,6 @@ Data Science & AI Enthusiast
 
 ---
 
-⭐ *If you like this project, don't forget to give it a star on GitHub!*
+*If you like this project, don't forget to give it a star on GitHub!*
 
 
